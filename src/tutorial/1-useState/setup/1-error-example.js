@@ -3,7 +3,7 @@ import React from 'react';
 const ErrorExample = () => {
   let title ='rendom title';
   const handleClick=()=>{
-    title='hello people'
+    title='hello people';
     console.log(title);
   };
   return ( 
